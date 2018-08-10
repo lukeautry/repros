@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "start": "yarn ts-node index.ts"
+  },
+  "dependencies": {
+    "@0xproject/subproviders": "^1.0.4",
+    "@0xproject/web3-wrapper": "^1.1.2",
+    "@types/chalk": "^2.2.0",
+    "@types/readline-sync": "^1.4.3",
+    "chalk": "^2.4.1",
+    "readline-sync": "^1.4.9",
+    "ts-node": "^7.0.0",
+    "typescript": "^3.0.1",
+    "web3-provider-engine": "^14.0.6"
+  }
+}
